@@ -4,11 +4,11 @@
 
 Hello!
 
-My name is Oleg Petrakov. I'm a security researcher and an application security engineer at BI.ZONE.&#x20;
+My name is Oleg Petrakov. I'm a security researcher and an application security engineer.&#x20;
 
-![](<.gitbook/assets/R1-00325-0014 (1).JPG>)
+<figure><img src=".gitbook/assets/photo_2022-10-18 15.02.31.jpeg" alt=""><figcaption></figcaption></figure>
 
-Several years ago I started to collect an information about some fields in Information Security. Now it have a form like Gitbook-pages. List of all my gitbooks: [https://appsecurity.gitbook.io/](https://appsecurity.gitbook.io) (you here now:grin:).&#x20;
+Several years ago I started to collect an information about some fields in Information Security. Now it have a form like Gitbook-pages. List of all my gitbooks: [https://appsecurity.gitbook.io/](https://appsecurity.gitbook.io/) (you here now:grin:).&#x20;
 
 Also I have a Telegram-channel where I put some notes & tips.&#x20;
 
