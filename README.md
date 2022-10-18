@@ -6,9 +6,9 @@ Hello!
 
 My name is Oleg Petrakov. I'm a security researcher and an application security engineer.&#x20;
 
-<figure><img src=".gitbook/assets/photo_2022-10-18 15.02.31 (1).jpeg" alt="It&#x27;s me :)"><figcaption><p>It's me :)</p></figcaption></figure>
+<figure><img src=".gitbook/assets/photo_2022-10-18 15.02.31.jpeg" alt="It&#x27;s me :)"><figcaption><p>It's me :)</p></figcaption></figure>
 
-Several years ago I started to collect an information about some fields in Information Security. Now it have a form like Gitbook-pages. List of all my gitbooks: [https://appsecurity.gitbook.io/](https://appsecurity.gitbook.io/) (you here now:grin:).&#x20;
+Several years ago I started collecting an information about some fields in Information Security. Now it have a form like Gitbook-pages. List of all my gitbooks: [https://appsecurity.gitbook.io/](https://appsecurity.gitbook.io/) (you here now:grin:).&#x20;
 
 Also I have a Telegram-channel where I put some notes & tips.&#x20;
 
@@ -16,7 +16,7 @@ My Telegram channel — [https://t.me/not\_experts\_channel](https://t.me/not\_e
 
 In the Telegram you can find me by link [https://t.me/IkeMurami](https://t.me/IkeMurami)
 
-Primary language — Russian but I am learning English and sometimes I try to write on English :)
+Primary language — Russian but I am learning English and sometimes I try writing on English :)
 
 ## Gitbooks
 
