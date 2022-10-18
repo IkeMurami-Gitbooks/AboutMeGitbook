@@ -6,7 +6,7 @@ Hello!
 
 My name is Oleg Petrakov. I'm a security researcher and an application security engineer.&#x20;
 
-<figure><img src=".gitbook/assets/photo_2022-10-18 15.02.31.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/photo_2022-10-18 15.02.31 (1).jpeg" alt="It&#x27;s me :)"><figcaption><p>It's me :)</p></figcaption></figure>
 
 Several years ago I started to collect an information about some fields in Information Security. Now it have a form like Gitbook-pages. List of all my gitbooks: [https://appsecurity.gitbook.io/](https://appsecurity.gitbook.io/) (you here now:grin:).&#x20;
 
