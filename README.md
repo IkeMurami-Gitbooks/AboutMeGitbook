@@ -27,7 +27,7 @@ Link: [https://appsecurity.gitbook.io/offensive/](https://appsecurity.gitbook.io
 * Application security: [https://appsecurity.gitbook.io/offensive/v/appsec/](https://appsecurity.gitbook.io/offensive/v/appsec/)
 * Mobile security: [https://appsecurity.gitbook.io/offensive/v/mobile/](https://appsecurity.gitbook.io/offensive/v/mobile/)
 * Penetration testing: [https://appsecurity.gitbook.io/offensive/v/pentest/](https://appsecurity.gitbook.io/offensive/v/pentest/)
-* Cloud security (TODO, until to see in Administration Space): [https://appsecurity.gitbook.io/offensive/v/cloud/](https://appsecurity.gitbook.io/offensive/v/cloud/)
+* Cloud security: [https://appsecurity.gitbook.io/offensive/v/cloud/](https://appsecurity.gitbook.io/offensive/v/cloud/)
 
 ### Dev & Ops
 
